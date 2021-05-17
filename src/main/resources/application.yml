@@ -1,0 +1,6 @@
+rocketmq:
+  name-server: localhost:9876
+  producer:
+    group: hammy_producer
+  topic:
+    name: hammy_topic
